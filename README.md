@@ -1,8 +1,8 @@
-# gatsby-gitbook-starter
+# Sahih al-Bukhari
 
-Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.
+Ṣaḥīḥ al-Bukhārī (Arabic: صحيح البخاري, Ṣaḥīḥ may be translated as authentic or sound),[1](https://en.wikipedia.org/wiki/Sahih_al-Bukhari#cite_note-1) is one of the six major collections of hadith based on the teachings, sayings, traditions and practices of Muhammad. Regarded as the most authentic and authoritative books in Sunni Islam, it consists of 7,275 hadiths[[a]](https://en.wikipedia.org/wiki/Sahih_al-Bukhari#cite_note-2) compiled by Persian scholar Muḥammad ibn Ismā‘īl al-Bukhārī around 846 CE/232 AH.
 
-![gatsby-gitbook-starter](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png)
+![Sahih al-Bukhari](https://en.wikipedia.org/wiki/Sahih_al-Bukhari#/media/File:SaheehAlBukhari.png)
 
 ## Motivation
 
