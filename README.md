@@ -6,7 +6,7 @@
 
 ## Sunni Islam
 
-![Ahlul-Sunnah] (https://github.com/the-sharp-solutions/sahih-al-bukhari/blob/master/src/assets/Ahlul_Sunnah.png)
+![Ahlul-Sunnah](https://github.com/the-sharp-solutions/sahih-al-bukhari/blob/master/src/assets/Ahlul_Sunnah.png)
 
 We wanted to create a [GraphQL tutorial](https://learn.hasura.io) series. The content would be written by developers for various languages/frameworks and what better than writing it in Markdown! And since this is a tutorial series we also needed rich embeds, syntax highlighting and more customisations.
 
